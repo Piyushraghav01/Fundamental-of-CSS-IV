@@ -1,0 +1,10 @@
+#box {
+  width: 200px;
+  height: 200px;
+  background-color: lightsalmon;
+  float: right;
+}
+
+img {
+  float: inline-start;
+}
